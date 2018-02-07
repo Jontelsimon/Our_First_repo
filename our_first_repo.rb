@@ -1,5 +1,5 @@
 puts "Hello Universe"
 
-puts "Goodbye"
-
 puts "made a change"
+input = gets.chomp
+puts input.reverse
